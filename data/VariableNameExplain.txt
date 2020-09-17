@@ -1,0 +1,20 @@
+Bstif — the bending stiffness EI/L^3 [N/m]
+D — diameter [m]
+dSstar — arc length at point of failure minus arc length at the beginning of the test [mm]
+E — Young’s modulus computed from EB theory [Pa]
+Fslp — force at the first slip event [N]
+Fstar — force at failure [N]
+K_s — stiffness (slope of F-w_0 response) [N/m]
+Kc_SE — standard error of cantilever stiffness [N/m]
+Kcant — cantilever stiffness [N/m]
+L — span [m]
+N_L — number of measurements of the span
+s_L — standard deviation of span measurement [m]
+sD — standard deviation of diameter measurement (N=5) [m]
+SSpattern — boolean indicating which tests displayed the sawtooth stick slip pattern
+T_file — list of data file names for cross referencing purposes
+w0slp — specimen displacement at the first slip event [m]
+w0star — specimen displacement at failure [m]
+w_sslp — stage displacement at first slip event [m]
+w_sstar — stage displacement at failure [m]
+
